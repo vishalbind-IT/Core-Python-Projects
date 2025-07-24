@@ -1,0 +1,14 @@
+[
+    {
+        "roll_no": "1",
+        "name": "Nadeem",
+        "age": "22",
+        "course": "bs"
+    },
+    {
+        "roll_no": "2",
+        "name": "Amar",
+        "age": "22",
+        "course": "bs"
+    }
+]
